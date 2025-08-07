@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 #### 5. Configure Android Emulator
 
-1. **Install an Android emulator** (BlueStacks recommended)
+1. **Install an Android emulator** (Mumu Emulator 12 recommended)
 2. **Set resolution to 1080x1920** (portrait mode)
 3. **Enable ADB debugging** in emulator settings
 4. **Install Umamusume** in the emulator
